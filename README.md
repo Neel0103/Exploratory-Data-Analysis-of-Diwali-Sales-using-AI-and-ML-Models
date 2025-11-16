@@ -79,8 +79,8 @@ Practical exposure to data visualization and business insights
 👤 Niladri Nag
 B.Tech, Information Technology
 KIIT Deemed to be University, Bhubaneswar
-📧 [your-email@example.com
-] (replace with your real one)
+📧 [niladrinag03@gmail.com
+]
 🌐 GitHub Profile
 
 🧾 License
